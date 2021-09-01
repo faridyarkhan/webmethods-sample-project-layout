@@ -1,0 +1,24 @@
+#aclmap for package: TestSVN
+#Sun Aug 22 10:43:31 AST 2021
+TestSVN.docs=
+TestSVN.docs.Entity\:accountDetails=
+TestSVN=
+TestSVN.docs.Entity\:personalDetails=
+TestSVN.docs.Entity\:address=
+TestSVN.docs.Entity\:Nationality=
+TestSVN.services\:validation=
+TestSVN.docs.Entity\:customerEventDetails=
+TestSVN.services\:insertCustInfo=
+TestSVN.docs\:sendCustInformationRs=
+TestSVN.adapters\:insertCustAccountDetails=
+TestSVN.docs\:sendCustInformationRq=
+TestSVN.adapters\:insertCustAddress=
+TestSVN.triggers\:subCustInfo=
+TestSVN.docs.Entity\:body=
+TestSVN.adapters=
+TestSVN.docs.Entity\:status=
+TestSVN.adapters\:insertCustInfo=
+TestSVN.docs.Entity\:header=
+TestSVN.services=
+TestSVN.triggers=
+TestSVN.docs.Entity=
