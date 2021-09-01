@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">TestSVN</value>
+  <value name="version">1.0</value>
+  <value name="build">10.3.8</value>
+  <value name="patch_nums"></value>
+  <null name="description"/>
+  <value name="target_pkg_version">1.0</value>
+  <value name="jvm_version">1.8.0_292</value>
+  <value name="source_server_version">10.5.0.0</value>
+  <value name="target_server_version">10.5.0.0</value>
+  <value name="time">2021-08-22 10:43:31 AST</value>
+  <value name="type">full</value>
+  <value name="retainPatchHistory">yes</value>
+  <value name="target_pkg_name">TestSVN</value>
+  <value name="publisher">vmbuildertst</value>
+</Values>
